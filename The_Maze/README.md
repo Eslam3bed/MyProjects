@@ -1,5 +1,4 @@
 ## Maza Solver
-
- ##### it's self genrate and findind the solution of agiven maza .
-
+--------------
+#### it's self-generated and finding the solution of a given maza.
 >Simple java implementation to use java threading
